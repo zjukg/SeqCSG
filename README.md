@@ -1,6 +1,12 @@
 # SeqCSG
+![](https://img.shields.io/badge/version-1.0.1-blue)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/zjukg/SeqCSG/blob/main/licence)
+[![arxiv badge](https://img.shields.io/badge/arxiv-2208.09417-red)](https://arxiv.org/abs/2208.09417)
+[![ICANN](https://img.shields.io/badge/ICANN'23-brightgreen)](https://aaai.org/Conferences/ICANN-23/)
+[![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white)](https://pytorch.org/)
+
 ### This repository contains code for:
- - *Target-oriented Sentiment Classification with Sequential Cross-modal Semantic Graph*
+ - [*Target-oriented Sentiment Classification with Sequential Cross-modal Semantic Graph*](https://arxiv.org/abs/2208.09417)
 
 ## Model Architecture
 <img src="figures/SeqCSG.png" width = 100% height = 100% />
